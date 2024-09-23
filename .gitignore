@@ -1,0 +1,6 @@
+# Whitelist the files we want
+*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/profile/*

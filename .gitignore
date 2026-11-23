@@ -1,5 +1,6 @@
 # Whitelist the files we want
 *
+!/.github/SECURITY.md
 !/.gitignore
 !/LICENSE
 !/README.md
